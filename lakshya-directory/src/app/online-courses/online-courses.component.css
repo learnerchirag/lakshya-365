@@ -1,0 +1,66 @@
+.title-box {
+  /* position: absolute; */
+  background-image: url(../../assets/slider_background.webp);
+  background-size: cover;
+  top: 0px;
+  padding-bottom: 100px
+}
+.oc1 {
+  padding-top: 30px;
+  text-decoration: underline;
+  margin-bottom: 50px
+}
+ul {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex-wrap: wrap;
+  margin: -2.5px;
+  list-style: none;
+  padding: 0px;
+
+}
+h1 {
+  font-size: 3.3em;
+  color: white
+}
+.course-list {
+  margin-top: 250px
+}
+.works-list-element {
+  width: 241px;
+  position: relative;
+  text-align: center;
+  height: 200px;
+  padding: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 0px;
+  margin: 3px;
+  background-color: #fff;
+}
+.item-1 {
+  color: blue;
+}
+.item-2 {
+  color: #e8940c;
+}
+.item-3 {
+  color: #ff8265;
+}
+.item-4 {
+  color: #0db2a8;
+}
+.item-5 {
+  color: blue;
+}
+.standard {
+  height: 50px
+}
+.explore-btn {
+  margin-top: 100px
+}
+.btn {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+}

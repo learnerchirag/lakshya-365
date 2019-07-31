@@ -1,0 +1,67 @@
+.title-box {
+  /* position: relative; */
+  background-image: url(../../assets/slider_background.webp);
+  background-size: cover;
+  top: 0px;
+}
+.title {
+  padding-top: 150px;
+  margin-bottom: 7px;
+  color: white;
+}
+.schedule {
+  /* display: inline; */
+  text-align: center;
+  margin-top: 15px;
+  color: white
+}
+.days {
+  display: inline-block;
+}
+.time {
+  display: inline-block;
+}
+.day-defined {
+  border-right: 1.5px solid black;
+  padding-right: 8px
+}
+.passion {
+  text-align: center;
+  margin-top: 15px;
+  color: white
+}
+.register {
+  text-align: center;
+  margin-top: 20px
+}
+.btn {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+}
+ul {
+  list-style-type: none;
+  padding: 0px
+}
+.about {
+text-align: center;
+margin-top: 20px;
+color: white
+}
+.data-about {
+text-align: center;
+}
+.about-content {
+  margin: 50px;
+  font-size: 20px;
+  text-align: justify;
+  color: white;
+  padding-bottom: 220px;
+  margin-bottom: 0px
+}
+.sch {
+  text-align: center;
+}
+.data-sch {
+  text-align: center;
+}
